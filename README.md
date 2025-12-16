@@ -1,3 +1,6 @@
+# Desription
+Appliction is frontend for Scrapper app it was created for an engineering thesis.
+It Allows to look for item, send request to scrape and prezent a screeen with requested items historical prices. 
 # First
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.4.
